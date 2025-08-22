@@ -32,3 +32,6 @@ Python 3.11+
 Tkinter (para interface gráfica)
 
 CSV (para armazenamento dos dados)
+
+
+Projeto desenvolvido por Pedro Paulo
